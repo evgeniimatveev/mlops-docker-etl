@@ -49,74 +49,69 @@ mlops_docker_project/
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
 ```
-🧰 Technologies Used
-🐍 Python 3.10
+🧠 ETL Pipeline
+✅ Extract – Read raw CSV (sales.csv)
 
-🐘 PostgreSQL 13 (via Docker)
+✅ Transform – Calculate total revenue using price, quantity, discount
 
-🐳 Docker & Docker Compose
+✅ Load – Write into PostgreSQL table sales
 
-📦 SQLAlchemy + Pandas (for ETL)
+📊 SQL Query Examples (in sql/dql/)
+revenue_summary.sql → 💰 Total revenue from all sales
 
-🧽 sqlfluff (for SQL linting and CI/CD)
+top_categories.sql → 🏆 Revenue + order count by category
 
-⚙️ GitHub Actions (for automation)
-🧩 ETL Pipeline (etl.py)
+sales_by_region.sql → 🌍 Regional breakdown
 
-Extract – Read raw CSV (sales.csv)
+discount_impact.sql → 🔻 Impact of discounts
 
-Transform – Calculate total revenue using price, quantity, discount
+daily_sales_trend.sql → 📅 Orders & revenue by day
 
-Load – Write into PostgreSQL table sales
+weekly_sales_trend.sql → 📈 Weekly performance trend
 
-📊 SQL Query Examples
-📁 Stored inside: sql/dql/
+✔️ These queries are ready to plug into Tableau, Power BI, or any BI dashboard
 
-revenue_summary.sql → Total revenue from all sales
-
-top_categories.sql → Revenue + number of orders by category
-
-sales_by_region.sql → Regional sales breakdown
-
-discount_impact.sql → Impact of applied discounts
-
-daily_sales_trend.sql → Orders and revenue by day
-
-weekly_sales_trend.sql → Weekly performance trend
-
-✨ Ready to plug into Tableau or BI dashboards.
-
-
-
-✅ CI/CD: SQL Linting
-
+✅ CI/CD – SQL Linting with GitHub Actions
 GitHub Actions automatically runs sqlfluff on every push and pull request:
 
-- name: Lint SQL files
-```
+yaml
+Copy
+Edit
 run: sqlfluff lint sql/dql --dialect postgres
-```
-Ensures your SQL queries are always clean and consistent.
+Ensures your SQL queries are always clean and consistent. ✨
 
-#  📦 Run Locally (Docker)
+📦 Run Locally (Docker)
+1. Build and start containers
 
-# 1. Build and start containers
-```
+bash
+Copy
+Edit
 docker-compose up --build
-```
-# 2. ETL script will run automatically
-```
-# You’ll see: "✅ Data successfully loaded into the 'sales' table."
-```
-# 3. Connect via pgAdmin or any client
+2. ETL script will run automatically
 
+bash
+Copy
+Edit
+# You’ll see: ✅ Data successfully loaded into the 'sales' table.
+3. Connect via pgAdmin or any client
 
-## 📜 License  
+📜 License
+This project is distributed under the MIT License. Feel free to use the code! 🚀
+
+📢 Stay Connected
+💻 GitHub: Evgenii Matveev
+
+🌐 Portfolio: Data Science Portfolio
+
+📌 LinkedIn: Evgenii Matveev
+
+🔥 If you like this project, don’t forget to star ⭐ the repository! 🔥
+# 📜 License  
 This project is distributed under the **MIT License**. Feel free to use the code! 🚀  
 
 ---
 
-## 📢 Stay Connected!  
+# 📢 Stay Connected!  
 💻 **GitHub Repository:** [Evgenii Matveev](https://github.com/evgeniimatveev)  
 🌐 **Portfolio:** [Data Science Portfolio](https://www.datascienceportfol.io/evgeniimatveevusa)  
 📌 **LinkedIn:** [Evgenii Matveev](https://www.linkedin.com/in/evgenii-matveev-510926276/)  
