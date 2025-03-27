@@ -58,7 +58,6 @@ mlops_docker_project/
 
 ## 📊 SQL Query Examples (in `sql/dql/`)
 
-- `revenue_summary.sql` → 💰 Total revenue from all sales  
 - `top_categories.sql` → 🏆 Revenue + order count by category  
 - `sales_by_region.sql` → 🌍 Regional breakdown  
 - `discount_impact.sql` → 🔻 Impact of discounts  
