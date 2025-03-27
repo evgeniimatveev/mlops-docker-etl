@@ -1,0 +1,21 @@
+name: SQL Linter
+
+on: [push, pull_request]
+
+jobs:
+  lint-sql:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install sqlfluff
+        run: pip install sqlfluff
+
+      - name: Lint SQL files
+        run: sqlfluff lint sql/dql --dialect postgres

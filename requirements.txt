@@ -1,0 +1,6 @@
+sqlalchemy==2.0.19
+faker==18.11.2
+python-dotenv==1.0.0
+pandas==2.2.1
+numpy==1.26.4
+psycopg2-binary

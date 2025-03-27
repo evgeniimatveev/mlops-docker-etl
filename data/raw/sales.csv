@@ -1,0 +1,501 @@
+product,category,price,quantity,discount,buyer,date,region
+car,books,370,2,0.22,Matthew Hernandez,2023-06-08,North America
+experience,books,376,7,0.14,Linda Valentine,2023-06-06,Europe
+hard,home,527,9,0.12,Brian White,2024-08-26,Africa
+less,books,958,5,0.26,Dr. Brittney Campbell,2023-05-27,South America
+long,books,986,9,0.16,Mark Rogers,2023-04-10,Asia
+skin,home,213,5,0.22,Melissa Williams,2023-08-29,Asia
+yes,fashion,1180,10,0.25,Phillip Armstrong,2023-11-20,Europe
+moment,books,411,4,0.07,Sean Delacruz,2023-08-11,Europe
+describe,fashion,501,9,0.25,Timothy Perez,2024-11-15,Europe
+cover,toys,786,5,0.28,Matthew Glover,2024-07-13,Africa
+claim,books,205,4,0.1,Jason Barnett,2024-05-27,Asia
+will,toys,532,2,0.17,Maureen Collins,2024-07-07,Asia
+avoid,electronics,947,8,0.1,Dawn Dunn,2023-06-24,North America
+hour,books,1179,4,0.19,Fernando Moore Jr.,2023-12-01,Africa
+environment,home,349,4,0.24,David Cunningham,2024-08-08,North America
+trip,electronics,839,2,0.25,Susan Riley,2024-11-15,South America
+everyone,home,256,6,0.05,Jessica Perez,2023-05-22,North America
+color,books,341,7,0.27,Daniel Howard,2024-12-04,Asia
+great,home,741,9,0.28,Andrew Campos,2024-08-13,Africa
+analysis,electronics,1074,7,0.12,Robert Manning,2024-09-22,Africa
+head,electronics,682,9,0.05,Brittany Wilkinson,2024-02-02,Asia
+ever,electronics,461,5,0.09,Michael Scott,2025-01-17,Asia
+star,books,157,1,0.18,Samantha Griffin,2024-08-20,Asia
+service,electronics,274,3,0.18,Terry Smith,2023-09-22,Asia
+old,toys,156,1,0.19,Martin Webb,2024-03-05,South America
+five,fashion,1144,10,0.24,William Novak,2023-07-11,Africa
+white,fashion,564,1,0.16,Autumn Newman,2025-02-12,North America
+tough,toys,243,1,0.12,Molly Bailey,2023-06-04,South America
+recognize,home,519,3,0.22,Lisa Wyatt,2023-09-17,Europe
+green,electronics,1151,10,0.09,Brandon Herrera,2023-05-06,South America
+hand,toys,1158,9,0.06,Alicia Kaufman,2024-03-18,Africa
+weight,home,1030,1,0.29,Mary Hernandez,2024-04-22,Asia
+particularly,toys,621,7,0.24,Michael Chen,2023-08-25,Africa
+least,electronics,837,3,0.14,Michael Clark,2025-01-16,South America
+give,electronics,571,10,0.29,Joan Torres,2024-11-29,South America
+rock,electronics,1049,3,0.12,Victoria Kaufman,2023-12-07,Africa
+coach,home,170,4,0.2,Hannah Lopez,2025-01-13,Europe
+be,home,246,2,0.28,Kelly Fernandez,2023-04-28,South America
+together,books,156,9,0.21,Christina Hayden,2023-12-04,Africa
+environmental,electronics,307,2,0.24,Lynn Good,2023-07-22,North America
+could,toys,658,4,0.11,Michelle Rodriguez,2024-09-21,Europe
+skill,home,791,9,0.1,Andrew Owens,2023-06-11,North America
+central,home,997,5,0.07,Crystal Diaz,2025-01-28,Europe
+billion,fashion,1148,10,0.09,Benjamin Griffith,2024-11-10,Africa
+teach,toys,110,4,0.21,Michael Thomas,2023-09-06,North America
+hear,electronics,620,6,0.06,Robert Schwartz,2024-02-21,Asia
+model,toys,1145,6,0.07,Richard Leblanc,2023-08-07,Africa
+near,electronics,817,6,0.22,David Foster,2024-07-06,Asia
+safe,toys,114,8,0.12,Barry Schneider,2024-07-21,North America
+local,toys,564,2,0.27,Colleen Smith,2024-06-09,Africa
+first,fashion,1120,6,0.22,Luis Alvarez,2024-07-24,Europe
+at,books,1053,6,0.26,Olivia Nguyen,2023-11-25,Europe
+since,books,910,2,0.08,Elizabeth Mills,2024-08-12,Europe
+concern,fashion,404,4,0.05,William Thomas,2024-03-16,Africa
+point,toys,1054,6,0.21,Anne Roach,2024-04-30,Africa
+fast,electronics,960,2,0.07,Melissa Roberts,2024-02-19,South America
+color,electronics,587,9,0.06,Lisa Wallace,2024-09-16,Europe
+reveal,fashion,186,9,0.1,Rachael Wells,2024-02-20,Europe
+the,home,195,7,0.27,Jason Rogers,2024-12-30,North America
+local,toys,777,7,0.05,Daniel Raymond PhD,2023-08-18,Europe
+class,toys,724,6,0.25,Dr. Michelle White MD,2024-08-08,South America
+successful,books,236,10,0.16,Diana Garcia,2025-03-15,North America
+could,electronics,240,4,0.09,Brittany Hopkins,2023-05-02,North America
+appear,electronics,1135,6,0.28,Karl Williams,2023-06-26,Asia
+stop,books,642,6,0.05,Alyssa Hernandez,2024-03-14,South America
+authority,toys,172,6,0.14,Teresa Leon,2024-12-11,Europe
+family,books,413,4,0.17,Scott Holland,2023-08-13,North America
+now,toys,509,6,0.19,Andrew Mccormick,2023-11-06,North America
+represent,books,784,4,0.28,Natasha Perez,2023-06-27,Africa
+arrive,electronics,986,4,0.08,Eric Wagner,2023-09-23,Europe
+myself,toys,417,10,0.17,Holly Hughes,2024-11-01,North America
+there,home,831,8,0.23,Paul Donaldson,2024-04-18,Asia
+tonight,toys,461,6,0.11,Timothy Snyder,2023-10-28,Africa
+painting,home,516,8,0.14,Robert Dixon,2023-05-07,Europe
+daughter,toys,311,4,0.23,Jamie Clark,2023-10-23,Asia
+although,books,628,4,0.17,Micheal Harris,2023-09-19,North America
+physical,toys,1125,8,0.15,Tracy Rodriguez,2025-01-19,North America
+put,toys,473,4,0.09,Melissa Lucero,2024-10-01,North America
+front,fashion,509,5,0.13,Elizabeth Brown,2023-08-03,Asia
+affect,home,381,1,0.13,Vanessa Sanchez,2024-12-06,Asia
+provide,books,246,4,0.3,Daniel Hicks,2024-03-13,South America
+reality,home,244,8,0.13,Michael Norton,2023-10-03,Asia
+fall,books,1092,1,0.06,Jennifer Harper,2024-03-20,North America
+state,fashion,1114,3,0.17,Michelle Wheeler,2024-04-07,South America
+nearly,home,1140,2,0.15,Brian Chase,2024-04-17,Asia
+operation,home,944,9,0.29,Edward Murray,2024-04-09,Africa
+strategy,electronics,849,10,0.27,Tammy Miller,2024-01-20,North America
+camera,toys,1045,4,0.23,Jacqueline Hill,2024-08-30,Asia
+open,toys,689,3,0.1,Brett Garcia,2023-12-11,Africa
+office,toys,838,4,0.2,Luke Miles,2023-06-13,Africa
+whom,books,411,10,0.29,Mary Stewart,2023-06-28,North America
+people,fashion,576,2,0.09,David Lewis,2023-10-15,South America
+south,home,331,4,0.09,Curtis Jackson,2023-08-06,Asia
+hair,home,270,1,0.29,Mr. Timothy Phillips,2025-02-20,South America
+threat,fashion,560,6,0.1,Javier Miller,2024-11-16,Europe
+common,toys,502,6,0.07,Christopher Mcintyre,2024-01-12,Asia
+citizen,toys,271,6,0.28,David Pope,2024-05-11,Africa
+maybe,electronics,672,3,0.08,James Hunt,2023-12-31,North America
+may,home,1069,8,0.16,Zachary Alexander,2023-10-28,Europe
+thus,home,1158,3,0.26,Brianna Brown,2025-01-09,Africa
+half,home,992,6,0.22,Alexander Dunn,2024-07-24,South America
+other,electronics,821,1,0.1,Emma Reid,2024-07-23,Europe
+chance,toys,483,8,0.19,Tyler Reilly,2023-05-03,Africa
+agree,fashion,458,3,0.23,Angela Frazier,2023-09-11,Asia
+pull,electronics,339,7,0.15,Heather Hoffman,2024-04-24,Europe
+truth,toys,874,5,0.29,Kimberly Pena,2024-11-17,North America
+audience,books,865,7,0.2,Theresa Cuevas,2024-12-14,Africa
+door,books,422,6,0.2,Olivia George,2024-07-28,North America
+growth,fashion,576,7,0.21,Eric Weber,2024-11-06,Europe
+rock,electronics,697,5,0.22,Jesse Stokes,2024-11-20,Asia
+face,electronics,255,2,0.18,Brandon Scott,2024-07-26,South America
+boy,home,646,10,0.07,Heather Morton,2023-10-05,Europe
+threat,electronics,476,2,0.28,Gregory Austin,2025-02-14,Asia
+spend,fashion,1149,9,0.1,Gregory Spencer,2024-12-23,Europe
+structure,toys,322,7,0.14,Joel Mcdonald,2023-07-29,North America
+land,electronics,711,2,0.07,Vincent Williams,2024-02-11,South America
+guy,home,942,5,0.17,Dwayne Reeves,2024-07-31,North America
+leg,electronics,1179,3,0.17,Brandon Reid,2023-10-06,Africa
+during,electronics,1105,1,0.28,Jaime Quinn,2024-07-07,Asia
+among,electronics,1002,9,0.25,Michael Joyce,2025-01-09,North America
+go,fashion,466,8,0.16,Christopher Scott,2023-11-05,Europe
+dinner,books,625,1,0.19,Jennifer Combs,2023-04-18,North America
+material,electronics,265,1,0.21,Lucas Salazar,2024-08-09,Africa
+blood,fashion,901,3,0.22,Lance Yang,2023-10-09,South America
+audience,home,277,9,0.13,Linda Ellis,2024-10-09,Europe
+democratic,electronics,876,5,0.12,Michael Sanchez,2025-01-05,North America
+center,home,705,3,0.28,Ashley Chandler,2024-06-01,South America
+administration,home,664,10,0.16,Thomas Alexander,2024-06-26,North America
+off,fashion,732,1,0.1,Alexandria Klein,2023-07-08,Europe
+whom,toys,216,6,0.23,Elizabeth Greene,2024-03-19,South America
+style,electronics,998,5,0.27,Diane Davis,2023-08-18,Europe
+interest,home,1070,1,0.28,David Jones,2025-03-23,North America
+base,books,336,2,0.13,Jennifer Hale,2024-12-16,Europe
+hope,books,791,4,0.09,Kelsey Reed,2024-11-10,South America
+suggest,fashion,1138,9,0.15,John Smith,2024-07-05,North America
+she,toys,318,8,0.27,Deborah Sandoval,2025-02-26,Asia
+single,home,689,9,0.22,Taylor Martin,2023-09-17,Africa
+hair,fashion,876,3,0.14,Louis Hernandez,2023-06-29,North America
+street,fashion,550,9,0.3,Mr. Charles Garcia,2024-04-15,Africa
+bank,toys,1159,4,0.19,Katrina Barry,2023-08-23,North America
+himself,books,574,6,0.24,Ann Caldwell,2023-10-22,South America
+quickly,home,1063,3,0.26,Philip Macdonald,2023-11-06,South America
+better,electronics,159,3,0.1,Jennifer Spencer,2025-03-05,Europe
+stay,books,897,5,0.19,Sandra Ford,2024-02-07,Asia
+might,home,992,5,0.25,Mr. Gregory Robinson,2023-11-15,South America
+low,electronics,766,4,0.24,Brittney Bean,2024-07-29,Europe
+suggest,fashion,798,5,0.13,David Brown,2023-12-19,South America
+suffer,toys,199,8,0.06,Danielle Davis,2023-12-07,North America
+reveal,books,671,5,0.26,Jerry Gardner,2024-12-04,Africa
+trouble,toys,1118,8,0.1,Kim Briggs,2023-05-14,Africa
+no,toys,1092,7,0.23,Tracy Morrow,2024-06-30,North America
+language,home,272,3,0.19,Jeffrey Rodriguez,2024-07-29,South America
+lot,toys,955,2,0.28,Cynthia Oconnell,2023-11-12,South America
+three,books,341,9,0.14,Aaron Contreras,2024-04-10,South America
+notice,electronics,304,3,0.21,Aaron Manning,2023-11-17,Europe
+three,electronics,697,5,0.23,Brandon Mcgrath,2024-03-03,South America
+campaign,toys,219,9,0.16,Dr. Jamie Flores,2024-04-17,North America
+million,fashion,260,8,0.09,Timothy Bridges,2023-07-17,South America
+song,home,920,7,0.09,Angela Aguirre,2024-04-06,Europe
+shoulder,electronics,1128,7,0.25,Jimmy Walker,2024-01-24,South America
+according,fashion,1026,9,0.2,Linda Swanson,2023-09-06,Asia
+parent,home,1133,1,0.1,Mr. Nicholas Rosario,2024-11-20,Asia
+society,electronics,495,10,0.28,Daniel Chen,2024-07-06,Asia
+memory,home,1060,9,0.22,Jessica Lopez,2023-10-25,North America
+up,electronics,1059,2,0.24,Katherine Webster,2024-03-21,Europe
+part,toys,612,3,0.13,Nancy Patel,2024-09-03,Europe
+small,home,584,8,0.15,Kevin Mckenzie,2025-01-08,Africa
+material,fashion,130,4,0.08,Shawna Fuller,2024-02-07,Africa
+woman,electronics,846,1,0.05,Joshua Davidson,2024-07-20,Europe
+reduce,fashion,1127,3,0.09,Kimberly Kelly,2025-01-17,Asia
+but,fashion,499,8,0.06,Charles Daniel,2024-01-16,North America
+wide,fashion,348,4,0.1,Sarah Gonzalez,2024-01-28,Europe
+number,home,692,7,0.16,Stephen Nelson,2024-01-31,Africa
+specific,books,589,1,0.14,Jennifer Calhoun,2023-12-14,North America
+industry,books,1011,6,0.28,Jessica Jacobson,2024-02-16,South America
+guess,electronics,624,6,0.17,Brian Calhoun,2024-02-09,North America
+past,toys,234,3,0.27,Eric Abbott,2024-10-21,South America
+two,books,868,5,0.08,Sean Proctor,2023-10-26,North America
+watch,toys,552,8,0.14,Henry Schneider,2023-04-22,Africa
+purpose,toys,595,8,0.08,Gary Murphy,2023-10-13,Europe
+race,electronics,1107,9,0.07,Christine Davidson,2024-02-21,Asia
+purpose,toys,717,8,0.22,Angela Ferguson,2024-06-09,Africa
+manager,fashion,1084,4,0.22,Richard Jones,2024-07-15,Africa
+where,home,739,8,0.2,Mariah Sanders,2023-06-01,North America
+ground,toys,166,10,0.23,Adam Torres,2024-09-20,North America
+support,books,403,9,0.21,Brent Craig,2023-06-24,Europe
+water,electronics,794,3,0.19,Jillian Delgado,2023-07-10,Asia
+usually,books,957,5,0.29,Joseph Lawrence,2024-07-01,Europe
+dream,electronics,1026,1,0.19,John Gaines,2024-09-24,North America
+start,toys,549,4,0.07,Tracy Peterson,2024-12-16,Asia
+institution,fashion,983,10,0.07,Breanna Reed,2024-01-11,Asia
+race,home,740,6,0.21,Benjamin Bennett,2024-09-14,North America
+reflect,home,730,9,0.14,Michael Macias,2023-06-16,North America
+analysis,home,170,5,0.1,William Robinson,2024-12-04,Europe
+ball,fashion,386,10,0.19,Matthew Rodriguez,2024-08-01,South America
+nice,home,772,6,0.13,Charles Cameron,2023-07-02,Africa
+meet,toys,1137,5,0.17,William White,2023-07-05,North America
+fear,toys,636,8,0.26,Joseph Williams,2023-04-10,South America
+detail,electronics,1196,1,0.24,Laura Hernandez,2023-08-04,South America
+level,books,1133,9,0.06,Thomas Pham,2023-11-27,South America
+treat,toys,202,8,0.06,Daniel Huber,2023-07-12,North America
+interesting,electronics,953,8,0.1,Judith Brown,2025-01-14,North America
+respond,fashion,846,1,0.08,David Logan,2025-01-10,Asia
+work,home,679,7,0.2,Lisa Cunningham,2023-04-01,South America
+speak,electronics,135,9,0.3,Daniel Collins,2023-07-31,Europe
+executive,fashion,406,9,0.06,Eric Wright,2023-11-21,Africa
+themselves,toys,979,7,0.06,Megan Hardy,2024-08-08,Africa
+table,fashion,172,6,0.2,Sarah Long,2024-12-22,North America
+score,home,657,5,0.11,Carl Ellis,2023-07-27,Asia
+senior,fashion,1197,8,0.19,Randy Petersen,2024-09-25,South America
+stock,fashion,412,7,0.18,Bill Mendez,2025-02-22,Europe
+issue,electronics,185,10,0.24,James Harvey,2024-04-07,Europe
+teach,fashion,982,9,0.23,William Delgado,2023-06-12,Europe
+sell,toys,186,2,0.2,Joseph Jones,2023-07-17,South America
+manage,books,556,3,0.21,Tom Miller,2023-06-18,Africa
+word,toys,734,5,0.19,Leslie Manning,2023-06-05,Africa
+rise,electronics,845,10,0.22,George Chavez,2023-12-22,Africa
+at,electronics,422,7,0.24,Lauren Beck,2024-12-25,Europe
+under,books,104,10,0.27,Donald Garrison,2024-06-20,Europe
+about,toys,286,6,0.17,Carlos Williams,2023-12-22,South America
+area,books,378,10,0.22,Andre Burns,2023-11-21,South America
+offer,books,671,5,0.13,Brian Evans,2024-02-13,South America
+laugh,fashion,615,4,0.21,Jennifer Foley,2025-02-22,South America
+discussion,books,591,3,0.16,Chad Barnes,2024-12-23,Africa
+check,fashion,638,10,0.28,Jennifer Green,2024-11-06,South America
+writer,books,560,5,0.1,Olivia Hensley,2024-04-19,Africa
+face,fashion,578,3,0.18,Stephanie Freeman,2023-04-18,Africa
+sing,toys,151,10,0.27,Jose Harmon,2024-08-23,South America
+hand,books,533,5,0.19,Carly Duncan,2023-03-28,Africa
+front,books,584,8,0.07,Alexa Gonzalez,2023-09-02,North America
+enjoy,toys,101,3,0.16,Wayne Levine,2023-08-10,South America
+yard,fashion,211,6,0.26,Kimberly Madden,2023-07-26,North America
+project,electronics,104,2,0.22,Craig Evans,2024-01-17,Europe
+military,electronics,372,6,0.18,Mr. Brandon Christian,2023-09-29,Asia
+Mr,home,364,3,0.13,Dr. Carolyn Cox MD,2025-01-18,South America
+personal,fashion,626,4,0.14,Larry Haney,2025-01-03,North America
+boy,electronics,868,7,0.27,James Khan,2023-07-04,Asia
+central,toys,1196,9,0.28,Rachel King,2024-10-07,Asia
+consider,toys,321,8,0.25,Jason Gonzalez,2023-05-03,North America
+hard,books,987,2,0.14,Terrance Smith,2024-01-12,Europe
+weight,fashion,360,10,0.26,Daniel Mcfarland,2024-08-31,South America
+every,toys,1149,7,0.12,Christy Allen,2023-06-18,South America
+commercial,electronics,1118,10,0.11,Shannon Vaughn,2024-10-08,South America
+degree,fashion,450,10,0.29,Heather Sosa,2024-02-08,Africa
+serve,fashion,551,8,0.13,John Thompson,2025-02-12,Europe
+and,electronics,189,10,0.12,Michael Johnson,2024-01-16,Africa
+cell,fashion,209,6,0.27,Donna Roberts,2025-03-26,Europe
+life,toys,273,3,0.13,Colleen Shelton,2024-09-15,North America
+total,fashion,450,8,0.16,Heather Butler,2024-06-16,Europe
+Democrat,fashion,586,6,0.13,Victoria Martin,2024-03-21,Africa
+debate,fashion,322,4,0.27,Antonio Williams,2024-06-06,Asia
+thank,toys,1161,9,0.08,Sarah Arnold,2023-08-27,South America
+rich,fashion,818,1,0.22,Keith Davis,2023-12-28,Europe
+capital,books,838,2,0.14,William Horn,2025-02-28,South America
+along,books,383,7,0.26,Jacqueline Sanders,2023-08-04,Europe
+color,electronics,417,9,0.24,John Edwards,2024-11-02,South America
+later,home,304,8,0.07,Jared Hoffman,2023-06-27,Africa
+population,home,1151,10,0.28,Adam Velasquez,2023-12-18,Europe
+statement,fashion,433,10,0.27,Justin Perez,2025-03-11,South America
+someone,books,874,4,0.08,Edward Bradshaw,2023-12-29,Europe
+dark,books,1074,3,0.08,Rebecca Williams,2023-04-27,Europe
+audience,toys,680,6,0.23,Mariah Osborne,2024-09-13,North America
+large,electronics,557,10,0.21,Harold Martin,2024-09-18,Asia
+conference,toys,1012,1,0.18,Brian Johnston,2024-12-04,Asia
+green,fashion,1087,5,0.19,James Spencer,2024-01-30,Africa
+pick,home,524,2,0.15,Sandra Patton,2024-04-27,Africa
+start,fashion,636,1,0.14,Sara Nelson,2024-10-07,Europe
+think,fashion,447,2,0.25,Michael Guerra,2023-10-17,Europe
+case,toys,247,7,0.22,Angela Haley,2024-11-19,Europe
+join,fashion,1157,6,0.11,Susan Wolfe,2023-10-02,Africa
+fish,toys,728,2,0.15,Kathleen Walters,2024-01-29,North America
+small,fashion,716,3,0.2,Calvin Perez,2023-04-01,North America
+couple,electronics,1137,6,0.19,Anne Peters,2023-06-17,South America
+government,books,472,6,0.13,Susan Serrano,2024-06-29,Africa
+black,electronics,324,7,0.1,Brian Jackson,2024-12-15,Asia
+medical,fashion,1128,3,0.28,Samantha Stanton,2024-03-14,North America
+defense,books,1065,2,0.22,Phyllis Bennett,2023-04-05,Asia
+off,toys,713,10,0.09,Rodney Thompson,2025-02-10,South America
+treatment,fashion,346,1,0.19,Cheryl Brown,2024-02-13,Europe
+fill,fashion,458,7,0.15,Jeffrey Adams,2024-04-18,Africa
+political,fashion,916,3,0.17,Bryan Martinez,2024-12-12,South America
+everybody,electronics,1033,8,0.3,Kristin Goodman,2023-09-16,Europe
+amount,toys,427,2,0.23,Patrick Rogers,2023-04-30,South America
+particular,fashion,383,2,0.19,Dennis Brown,2023-04-10,Europe
+try,home,241,8,0.2,Amanda Crawford,2024-03-14,Europe
+go,books,433,1,0.28,Charles Benson,2025-03-07,Asia
+a,toys,1183,9,0.12,David Brown,2023-12-09,North America
+can,electronics,459,6,0.11,Brian Sweeney,2023-11-23,South America
+meet,fashion,754,3,0.15,Christopher Dillon,2024-12-11,North America
+blue,toys,1011,7,0.29,Connie Moore,2024-09-26,Africa
+draw,electronics,112,1,0.13,Peter Edwards,2023-07-29,North America
+beat,fashion,577,5,0.21,Karen Peters,2024-01-28,Africa
+assume,toys,983,1,0.11,Rebecca Reilly,2025-03-16,Africa
+road,books,1051,3,0.26,Michael Cunningham,2024-01-20,North America
+occur,home,941,5,0.17,John Lopez,2023-06-22,North America
+dinner,home,837,8,0.05,Sarah Edwards PhD,2024-12-25,Europe
+act,home,234,6,0.18,Rachel Ramirez,2023-09-19,Europe
+new,books,749,2,0.23,Nicholas Anderson,2024-07-17,South America
+marriage,fashion,1086,1,0.13,Erik Juarez,2024-05-25,Africa
+course,home,514,7,0.21,Joseph Orr,2024-06-24,South America
+four,fashion,854,2,0.13,Kelly Hicks,2024-11-28,North America
+speak,books,482,10,0.29,Thomas Golden,2024-02-04,North America
+image,fashion,304,6,0.16,Angel Peterson,2025-03-17,South America
+usually,home,246,10,0.12,Jasmine Smith,2024-08-10,Asia
+organization,home,1148,2,0.14,Tyler Beltran,2023-04-01,Africa
+step,fashion,111,4,0.23,Christopher Hernandez,2025-03-13,South America
+professor,toys,373,5,0.11,Matthew Smith,2023-09-07,Europe
+school,toys,364,5,0.07,Mrs. Angela Mccormick,2024-04-19,South America
+choice,books,1118,9,0.2,Christopher Gilbert,2025-01-12,Europe
+participant,electronics,105,10,0.07,Paula Morales,2024-02-16,Africa
+establish,books,1101,1,0.29,Matthew Flores,2023-03-31,Africa
+upon,fashion,116,4,0.09,Matthew Pittman,2023-09-28,Africa
+who,toys,217,7,0.27,Tiffany Taylor,2023-07-03,Africa
+power,fashion,399,3,0.18,Erika Bradley,2024-06-06,Europe
+offer,toys,1077,7,0.25,Brian Hill,2023-11-07,Asia
+husband,fashion,851,9,0.15,Tara Gonzalez,2024-05-02,Africa
+chance,fashion,416,8,0.15,John Williams,2023-03-29,Africa
+low,toys,765,5,0.16,Julia Taylor,2025-03-06,North America
+consumer,home,704,10,0.05,Robin Martinez,2024-08-31,Asia
+hot,electronics,208,2,0.07,Robert Leonard,2023-06-07,Asia
+one,home,153,4,0.06,James Johnson,2025-03-07,Europe
+detail,toys,722,7,0.07,Jonathan Shaw,2023-07-23,Africa
+school,electronics,1008,4,0.29,Susan Freeman,2023-05-16,South America
+growth,toys,509,9,0.17,Toni Jones,2024-06-09,South America
+best,home,193,3,0.21,Kristen Ortega,2023-03-30,South America
+same,books,123,5,0.15,Michael Brady,2023-04-11,South America
+play,home,887,1,0.19,Amanda Gardner,2023-12-25,Europe
+get,books,689,5,0.13,Tamara Mcdaniel,2023-12-07,Asia
+interview,electronics,255,2,0.05,Erica Castillo,2024-11-20,Asia
+care,electronics,418,2,0.23,Elizabeth Turner,2023-06-17,Asia
+what,books,914,10,0.29,Mathew Lowery,2023-08-02,Africa
+himself,electronics,423,5,0.26,Matthew Lopez,2023-07-23,South America
+imagine,fashion,414,3,0.25,Lynn Greene,2023-07-30,North America
+them,toys,1184,9,0.23,Desiree Lee,2024-09-30,Africa
+address,electronics,1051,10,0.25,Anthony Robinson,2023-09-24,Asia
+stock,books,296,4,0.14,John Reyes,2024-11-26,Africa
+team,fashion,278,3,0.3,Stacy Chung,2024-10-17,Asia
+indeed,fashion,215,7,0.27,Pamela Guerrero,2023-12-16,Asia
+better,home,495,8,0.07,Maureen Wilkinson,2024-12-20,Europe
+try,home,1143,9,0.13,Ashley Jones,2024-12-15,Europe
+sort,home,602,2,0.06,Justin Smith,2024-06-17,Asia
+speech,books,777,7,0.09,Patricia Jenkins,2024-07-18,North America
+reach,toys,123,5,0.18,Damon Fernandez,2024-03-25,Asia
+assume,home,1147,5,0.26,Connor Howell,2024-10-10,Asia
+five,books,332,1,0.27,Jason Sanders,2024-04-07,Europe
+each,books,957,5,0.28,Amy Macdonald,2024-05-28,Europe
+here,electronics,261,9,0.29,Mario Hammond,2025-03-16,Europe
+ready,toys,1184,4,0.24,Robert Wright,2024-09-12,North America
+safe,home,1048,5,0.28,William George,2023-11-22,Asia
+represent,books,356,8,0.16,Michael Newman,2023-09-21,Europe
+and,books,584,8,0.13,James Smith,2023-11-29,South America
+per,electronics,674,3,0.18,Andrew Zhang,2024-10-21,Europe
+mention,home,157,5,0.27,William Hill,2023-09-25,Africa
+ball,home,983,7,0.22,Jesse Harris,2023-11-04,Asia
+simply,electronics,927,4,0.24,Robert Hunter,2024-06-01,Africa
+figure,electronics,181,7,0.2,Michael Cook,2025-01-21,South America
+community,home,428,9,0.1,Crystal Stephenson,2023-10-10,Africa
+commercial,home,133,10,0.25,Michelle Booker,2024-08-26,Europe
+city,fashion,1134,6,0.22,Joseph Brown,2023-07-15,Asia
+forget,toys,396,3,0.05,Craig Vargas,2024-01-19,North America
+easy,books,472,7,0.26,Yvette Butler,2025-03-24,South America
+a,home,200,4,0.13,Stephanie Sanchez,2024-08-10,Africa
+indeed,toys,832,2,0.16,Cynthia Contreras,2024-08-07,North America
+arrive,electronics,841,6,0.24,Deborah Hanson,2024-11-10,Africa
+say,home,146,8,0.27,Brian Simmons,2023-12-29,North America
+enter,books,1139,7,0.06,Joseph Brooks,2023-10-03,Asia
+million,fashion,185,1,0.21,Donald Matthews,2024-09-26,North America
+church,home,824,1,0.16,Daniel Bryant,2024-03-09,Europe
+door,fashion,150,7,0.11,Mary Morales,2024-08-27,Africa
+language,toys,420,5,0.21,Samantha Navarro,2025-01-26,Asia
+sense,books,102,6,0.06,Andrea Allen,2024-07-21,Europe
+beyond,toys,1083,1,0.16,Jermaine Scott,2024-07-12,Africa
+week,fashion,768,6,0.29,Patrick Fox,2024-01-04,North America
+leg,toys,489,9,0.22,Jack Phillips,2024-08-10,South America
+now,books,1082,1,0.13,Vincent Elliott,2025-02-12,South America
+person,books,657,3,0.07,Robert Singh,2024-08-01,Asia
+what,electronics,454,4,0.2,Lynn Obrien,2024-07-29,Asia
+heart,electronics,522,8,0.16,Thomas Scott,2025-03-08,South America
+along,toys,400,10,0.07,Paul Reid,2024-09-25,Europe
+song,fashion,714,5,0.25,Denise Hudson DDS,2024-07-14,North America
+age,electronics,350,7,0.07,Raymond Stewart,2024-06-15,Europe
+risk,home,884,2,0.24,Jason Smith,2023-06-20,Asia
+capital,books,971,7,0.07,Stacy Romero,2024-07-18,North America
+third,books,747,1,0.23,Stephanie Oconnell,2024-04-23,Africa
+support,electronics,1017,5,0.21,George King,2023-08-21,South America
+body,electronics,916,10,0.21,Wendy Rose,2023-12-19,Africa
+weight,fashion,454,7,0.11,Lisa Johnson,2024-12-16,Europe
+design,toys,676,4,0.13,Richard Clark,2024-10-30,Asia
+consumer,toys,102,5,0.27,Joshua Williams,2024-10-11,Africa
+as,toys,1048,3,0.2,Brittany Allen,2024-01-03,Asia
+catch,home,293,8,0.25,Marcus Turner,2024-04-10,Asia
+middle,books,1013,4,0.07,Blake Singleton,2023-07-26,North America
+will,books,250,9,0.1,Diane Wallace,2024-04-30,Africa
+when,books,467,3,0.27,Matthew Ramirez,2023-04-18,Asia
+suffer,electronics,1023,4,0.07,Sara Henderson,2024-05-20,North America
+Republican,home,980,4,0.19,Ashley Duffy,2023-03-29,North America
+reduce,home,214,2,0.19,Christopher Ewing,2024-04-16,Asia
+kind,home,140,5,0.22,Jaclyn Avila,2024-10-11,Europe
+water,home,1117,3,0.09,Johnathan Clark,2024-04-16,Africa
+dark,books,592,8,0.13,Samuel Cook,2023-05-07,North America
+carry,toys,733,1,0.19,David Adams,2024-10-07,Africa
+gas,home,988,7,0.25,Trevor Garcia,2024-06-24,Europe
+teacher,fashion,564,7,0.11,Nathan Dyer,2024-10-14,Africa
+force,home,522,3,0.08,Sandra Frost,2024-06-05,Europe
+just,books,157,4,0.2,Lauren Gilmore,2023-04-13,Africa
+agent,electronics,291,1,0.17,Jennifer Shaw,2023-11-14,Asia
+cell,home,109,4,0.05,Andre Mcknight,2024-09-03,Europe
+lose,electronics,1083,7,0.09,Amber Palmer,2023-06-20,Europe
+stuff,electronics,381,5,0.15,Laurie Mullen,2024-06-29,North America
+those,electronics,216,8,0.27,Richard Peterson,2025-02-28,South America
+fall,home,782,4,0.13,John Hogan,2024-10-02,Asia
+discussion,home,706,9,0.15,Tamara Foster,2024-09-21,Europe
+water,home,710,2,0.19,John Flores,2024-06-26,Europe
+room,fashion,376,1,0.15,Deborah Smith,2025-02-04,Asia
+since,books,984,6,0.24,Kelli Phillips,2024-01-25,North America
+politics,fashion,449,1,0.14,Kristine Hughes,2025-01-10,South America
+instead,electronics,681,6,0.28,Lynn Bailey,2023-09-27,Africa
+event,toys,378,9,0.19,David Waller,2025-01-22,South America
+front,books,473,7,0.18,Dean Gonzalez,2024-05-08,Africa
+less,books,970,5,0.13,Maria Ellis,2023-04-20,Asia
+mouth,home,1099,5,0.08,Derrick Cooper,2024-11-19,Asia
+field,toys,743,3,0.22,Cynthia Clark,2024-04-26,Europe
+certain,fashion,527,7,0.07,Veronica Perry,2024-01-10,Europe
+against,fashion,248,3,0.28,Ryan Thomas,2024-08-28,Asia
+production,toys,1167,10,0.09,Christian Lynch,2024-12-24,North America
+institution,home,342,2,0.14,Troy Huff,2024-05-28,Africa
+almost,toys,380,8,0.15,Blake Boyd,2023-07-16,Africa
+Mr,fashion,1098,8,0.26,Jason Hawkins,2023-12-07,South America
+suffer,electronics,1159,8,0.26,Randy Morgan,2024-12-10,North America
+again,toys,1101,5,0.23,Kathleen Phillips,2024-08-05,Asia
+realize,books,739,4,0.24,Elizabeth Moore,2025-02-01,Asia
+game,books,271,3,0.14,Jeffrey Clark,2023-11-09,Africa
+which,fashion,1102,3,0.22,Leonard Smith,2025-01-03,North America
+matter,home,1010,5,0.23,Renee Fernandez,2024-02-06,Africa
+knowledge,home,285,7,0.1,Jason Rivera,2024-08-11,Europe
+fish,books,355,10,0.24,Robert Young,2024-04-03,North America
+car,books,984,7,0.1,Charles Smith,2025-02-01,South America
+laugh,home,282,8,0.11,Anthony Smith,2023-04-29,North America
+smile,home,864,3,0.3,Jeremy Webb,2023-05-02,Asia
+collection,home,957,7,0.06,Dale Fowler,2023-10-28,North America
+guy,books,349,3,0.25,Kevin Cooper MD,2024-10-12,South America
+contain,home,329,9,0.15,Katherine Evans,2024-04-03,Europe
+short,fashion,1196,3,0.27,Diana Williams,2024-02-29,South America
+create,toys,787,4,0.27,William Herrera,2024-03-06,Africa
+spring,books,151,10,0.25,Megan Martin,2024-04-22,Asia
+upon,home,1000,2,0.12,Patricia Arroyo,2023-09-04,Africa
+how,home,155,8,0.23,Heather Wright,2024-07-02,Asia
+middle,toys,827,9,0.07,Brent Moore,2023-07-09,Africa
+military,home,1175,2,0.22,Richard Martinez,2023-05-24,Africa
+that,books,895,6,0.17,Mrs. Jacqueline Neal,2024-08-05,South America
+relate,books,317,1,0.3,Carol Friedman,2025-01-19,Asia
+until,toys,437,2,0.09,Daniel Lee,2024-08-30,North America
+despite,electronics,128,3,0.29,Austin Palmer,2023-04-12,Asia
+together,books,780,5,0.06,Jeffrey Kelley,2024-05-16,Europe
+notice,toys,421,3,0.27,Bryan Wilkins,2025-01-01,Europe
+unit,home,524,3,0.17,Justin Cox,2023-12-25,Europe
+toward,toys,844,9,0.1,Lisa Young MD,2023-08-18,Asia
+fund,electronics,355,4,0.06,Rachael Collins,2024-07-07,Asia
+focus,electronics,760,3,0.1,Sarah Stewart,2023-04-09,Asia
+politics,books,758,8,0.11,Meghan Baldwin,2023-05-23,South America
+shoulder,toys,572,8,0.18,Kelly Carpenter,2024-10-07,South America
+focus,toys,657,7,0.23,Alejandra Donaldson,2024-07-16,Africa
+operation,home,187,2,0.2,James Gonzalez,2024-09-06,North America
+laugh,fashion,705,2,0.14,Terry Smith,2024-08-25,Africa
+claim,toys,529,3,0.16,John Mitchell,2024-08-14,South America
+person,home,1170,4,0.15,James Meyer,2024-05-27,South America
+however,fashion,425,8,0.29,Erin Cuevas,2024-03-17,Asia
+or,home,1035,2,0.09,Jessica Savage,2024-11-24,South America
+blue,books,331,5,0.09,Debra Christensen,2024-07-08,Europe
+job,electronics,272,8,0.28,Ian Taylor,2023-04-05,Asia
+woman,electronics,199,6,0.12,Joseph Schultz,2023-05-12,Africa
+style,books,272,9,0.16,Sergio Bailey,2024-04-25,Africa
+south,books,1027,7,0.27,Denise Hahn,2023-10-06,Asia
+mother,books,503,6,0.18,Sean Dawson,2024-09-16,Asia
+site,home,382,1,0.19,Kyle Cohen,2023-12-20,North America
+enough,books,315,3,0.26,Stacy Padilla,2024-04-18,South America
+fine,toys,431,7,0.24,George Gonzales,2024-07-15,South America
+while,fashion,295,4,0.22,Corey West,2024-03-22,Europe
+reveal,fashion,859,4,0.11,James Hodges,2023-10-10,Asia
+begin,electronics,974,4,0.27,Justin Reed,2024-06-10,South America
+walk,books,836,10,0.18,Wanda Perry,2024-09-20,Europe
+part,fashion,1006,4,0.25,Daniel Miranda,2024-12-20,Asia
+close,home,290,5,0.13,Heather Smith,2024-08-19,Asia
+movement,books,141,7,0.3,Heidi Roman,2024-08-31,Asia
+tend,fashion,809,3,0.13,Joanna Williams,2023-07-30,Asia
+technology,electronics,926,1,0.17,Melissa Clark,2023-06-05,South America
+traditional,toys,970,3,0.3,Karen White,2023-10-25,Asia
+author,toys,411,6,0.27,Lynn Lane,2024-08-04,Europe
+can,books,818,4,0.24,Samantha Richardson,2023-06-18,North America
+any,toys,747,2,0.24,Matthew Warner,2023-09-16,North America
+rise,home,325,6,0.11,Mrs. Rachel Ali,2024-06-28,Africa
+four,fashion,1175,1,0.09,Julie Martin,2023-12-05,Asia
+according,fashion,120,3,0.06,Olivia Meyer,2025-03-16,Asia
+also,toys,1107,6,0.24,Brittany Giles,2024-08-07,Africa
+market,fashion,119,8,0.05,Doris Holloway,2024-10-12,Asia
+wait,toys,373,10,0.23,Rachel Serrano,2023-12-24,Europe
+physical,electronics,404,1,0.09,Kayla Ramirez,2024-09-14,Europe
+ten,electronics,278,7,0.08,Marissa Mendoza,2024-09-19,North America
+project,electronics,531,5,0.27,Erika Herrera,2024-12-01,South America
+fire,home,722,5,0.19,Joseph Ibarra,2024-05-06,North America

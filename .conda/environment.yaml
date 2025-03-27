@@ -1,0 +1,10 @@
+name: mlops_docker_env  # Conda environment name
+channels:
+  - defaults
+dependencies:
+  - python=3.9          # Python version
+  - pandas              # Data manipulation
+  - psycopg2            # PostgreSQL connector
+  - sqlalchemy          # ORM for database interaction
+  - faker               # Fake data generator
+  - pytest              # Testing framework (optional)

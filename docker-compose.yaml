@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: mlops_docker_project-postgres
+    environment:
+      POSTGRES_DB: elt_test
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 31031987
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  etl:
+    build: .
+    container_name: mlops_docker_project-etl
+    depends_on:
+      - postgres
+    env_file:
+      - .env
+
+volumes:
+  pgdata:
