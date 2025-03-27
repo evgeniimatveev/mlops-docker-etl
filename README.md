@@ -30,7 +30,7 @@ mlops_docker_project/
 ├── scripts/                     # Python scripts
 │   ├── etl.py                   # ETL logic (extract → transform → load)
 │   └── generate_data.py         # Generates sample sales data using Faker
-│   └── clean_sql_files.py        # Auto-clean SQL files to pass linting
+│   └── clean_sql_files.py       # Auto-clean SQL files to pass linting
 ├── sql/
 │   └── dql/                     # SQL queries for analysis
 │       ├── daily_sales_trend.sql
