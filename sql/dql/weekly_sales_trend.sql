@@ -5,3 +5,4 @@ SELECT
 FROM sales
 GROUP BY week_start
 ORDER BY week_start;
+
