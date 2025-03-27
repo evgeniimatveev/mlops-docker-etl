@@ -1,43 +1,38 @@
-🧪 MLOps Docker Project: ETL + PostgreSQL + SQL Analysis
+# 🧪 MLOps Docker ETL Project – PostgreSQL + Python + SQL CI/CD
 
-This project demonstrates a lightweight ETL pipeline in Python, fully containerized with Docker, and connected to PostgreSQL for data storage and SQL-based analysis.
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue) ![Python](https://img.shields.io/badge/Python-3.10-yellow) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-It also features CI/CD integration with GitHub Actions to validate SQL queries using sqlfluff.
+---
 
-🚀 Project Highlights
+## 🚀 Overview
 
-🐳 Dockerized ETL Workflow – Load sales data from CSV → transform → insert into PostgreSQL
+This repository demonstrates a **lightweight ETL project** using **Python, PostgreSQL, and Docker** with built-in **CI/CD for SQL validation** via GitHub Actions (`sqlfluff`).
 
-🐘 PostgreSQL – Stores structured sales data for analytics
+✔ Loads raw sales data → transforms it → stores in PostgreSQL  
+✔ Run clean SQL queries from `/sql/dql/`  
+✔ SQL linting automatically triggered on push/pull  
 
-🧠 SQL DQL Queries – For generating insights like revenue, trends, categories
+---
 
-✅ CI/CD – SQL validation on push/pull via GitHub Actions
+## 📁 Project Structure
 
-📁 Clean Project Structure – Modular and scalable layout for real-world MLOps setups
-
-📂 Project Structure
-
+```plaintext
 mlops_docker_project/
 │
-├── .conda/                   # 📌 Conda environment config (local)
+├── .conda/                      # Conda environment (optional)
 │   └── environment.yaml
 │
-├── data/                    
-│   ├── raw/                  # 📂 Raw CSV input data
+├── data/
+│   ├── raw/                     # Raw CSV input (sales.csv)
 │   │   └── sales.csv
-│   └── processed/            # 🧪 (Optional) processed data placeholder
+│   └── processed/               # Optional processed output
 │
-├── docker/                  
-│   ├── docker-compose.yaml   # 🐘 PostgreSQL + Python config
-│   └── Dockerfile            # 🛠 Docker image for ETL script
+├── scripts/                     # Python scripts
+│   ├── etl.py                   # ETL logic (extract → transform → load)
+│   └── generate_data.py         # Generates sample sales data using Faker
 │
-├── scripts/                 
-│   ├── etl.py                # 🔁 Main ETL pipeline script
-│   └── generate_data.py      # 🧪 Data generator (using Faker)
-│
-├── sql/                     
-│   └── dql/                  # 📊 SQL queries for analysis
+├── sql/
+│   └── dql/                     # SQL queries for analysis
 │       ├── daily_sales_trend.sql
 │       ├── discount_impact.sql
 │       ├── revenue_summary.sql
@@ -45,12 +40,14 @@ mlops_docker_project/
 │       ├── top_categories.sql
 │       └── weekly_sales_trend.sql
 │
-├── .github/workflows/       
-│   └── sql-lint.yaml         # ✅ GitHub Action for SQL linting
+├── .github/workflows/
+│   └── sql-lint.yaml            # GitHub Actions config for SQL linting
 │
-├── .env                     # 🔐 PostgreSQL credentials & config
-├── requirements.txt         # 📦 Python dependencies
-└── README.md                # 📘 Project documentation
+├── docker-compose.yaml          # PostgreSQL + Python setup
+├── Dockerfile                   # Python Docker image for ETL
+├── .env                         # DB connection credentials
+├── requirements.txt             # Python dependencies
+└── README.md                    # Project documentation
 
 🛠 Technologies Used
 
