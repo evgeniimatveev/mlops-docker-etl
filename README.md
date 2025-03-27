@@ -49,66 +49,45 @@ mlops_docker_project/
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
 ```
-🧠 ETL Pipeline
-✅ Extract – Read raw CSV (sales.csv)
+## 🧠 ETL Pipeline
 
-✅ Transform – Calculate total revenue using price, quantity, discount
+- ✅ **Extract** – Read raw CSV (`sales.csv`)
+- ✅ **Transform** – Calculate total revenue using price, quantity, discount
+- ✅ **Load** – Write into PostgreSQL table `sales`
 
-✅ Load – Write into PostgreSQL table sales
+---
 
-📊 SQL Query Examples (in sql/dql/)
-revenue_summary.sql → 💰 Total revenue from all sales
+## 📊 SQL Query Examples (in `sql/dql/`)
 
-top_categories.sql → 🏆 Revenue + order count by category
+- `revenue_summary.sql` → 💰 Total revenue from all sales  
+- `top_categories.sql` → 🏆 Revenue + order count by category  
+- `sales_by_region.sql` → 🌍 Regional breakdown  
+- `discount_impact.sql` → 🔻 Impact of discounts  
+- `daily_sales_trend.sql` → 📅 Orders & revenue by day  
+- `weekly_sales_trend.sql` → 📈 Weekly performance trend  
 
-sales_by_region.sql → 🌍 Regional breakdown
+✔️ These queries are ready to plug into **Tableau, Power BI**, or any BI dashboard
 
-discount_impact.sql → 🔻 Impact of discounts
+---
 
-daily_sales_trend.sql → 📅 Orders & revenue by day
+## ✅ CI/CD – SQL Linting with GitHub Actions
 
-weekly_sales_trend.sql → 📈 Weekly performance trend
+✔️GitHub Actions automatically runs sqlfluff on every push and pull request:
 
-✔️ These queries are ready to plug into Tableau, Power BI, or any BI dashboard
-
-✅ CI/CD – SQL Linting with GitHub Actions
-GitHub Actions automatically runs sqlfluff on every push and pull request:
-
-yaml
-Copy
-Edit
+```
 run: sqlfluff lint sql/dql --dialect postgres
+```
 Ensures your SQL queries are always clean and consistent. ✨
 
 📦 Run Locally (Docker)
 1. Build and start containers
-
-bash
-Copy
-Edit
+```
 docker-compose up --build
+```
 2. ETL script will run automatically
-
-bash
-Copy
-Edit
+```
 # You’ll see: ✅ Data successfully loaded into the 'sales' table.
-3. Connect via pgAdmin or any client
-
-📜 License
-This project is distributed under the MIT License. Feel free to use the code! 🚀
-
-📢 Stay Connected
-💻 GitHub: Evgenii Matveev
-
-🌐 Portfolio: Data Science Portfolio
-
-📌 LinkedIn: Evgenii Matveev
-
-🔥 If you like this project, don’t forget to star ⭐ the repository! 🔥
-# 📜 License  
-This project is distributed under the **MIT License**. Feel free to use the code! 🚀  
-
+```
 ---
 
 # 📢 Stay Connected!  
