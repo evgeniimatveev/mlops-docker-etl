@@ -16,7 +16,7 @@ This repository demonstrates a **lightweight ETL project** using **Python, Postg
 
 ## 📁 Project Structure
 
-```plaintext
+```
 mlops_docker_project/
 │
 ├── .conda/                      # Conda environment (optional)
@@ -48,21 +48,19 @@ mlops_docker_project/
 ├── .env                         # DB connection credentials
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
+```
+🧰 Technologies Used
+🐍 Python 3.10
 
-🛠 Technologies Used
+🐘 PostgreSQL 13 (via Docker)
 
-Python 3.10
+🐳 Docker & Docker Compose
 
-PostgreSQL 13 via Docker
+📦 SQLAlchemy + Pandas (for ETL)
 
-Docker & Docker Compose
+🧽 sqlfluff (for SQL linting and CI/CD)
 
-SQLAlchemy + Pandas for ETL
-
-sqlfluff (CI/CD for SQL)
-
-GitHub Actions for automation
-
+⚙️ GitHub Actions (for automation)
 🧩 ETL Pipeline (etl.py)
 
 Extract – Read raw CSV (sales.csv)
@@ -71,48 +69,60 @@ Transform – Calculate total revenue using price, quantity, discount
 
 Load – Write into PostgreSQL table sales
 
-🧪 SQL Query Examples
+📊 SQL Query Examples
+📁 Stored inside: sql/dql/
 
-Inside sql/dql/, you’ll find ready-to-run queries like:
+revenue_summary.sql → Total revenue from all sales
 
-Revenue Summary – total revenue from all sales
+top_categories.sql → Revenue + number of orders by category
 
-Top Categories – by revenue and number of orders
+sales_by_region.sql → Regional sales breakdown
 
-Regional Sales – grouped by region
+discount_impact.sql → Impact of applied discounts
 
-Discount Analysis – total discount impact
+daily_sales_trend.sql → Orders and revenue by day
 
-Daily & Weekly Trends – order volumes over time
+weekly_sales_trend.sql → Weekly performance trend
 
-These are great for dashboards or BI tools (e.g. Tableau).
+✨ Ready to plug into Tableau or BI dashboards.
+
+
 
 ✅ CI/CD: SQL Linting
 
 GitHub Actions automatically runs sqlfluff on every push and pull request:
 
 - name: Lint SQL files
-  run: sqlfluff lint sql/dql --dialect postgres
-
+```
+run: sqlfluff lint sql/dql --dialect postgres
+```
 Ensures your SQL queries are always clean and consistent.
 
-📦 Run Locally (Docker)
+#  📦 Run Locally (Docker)
 
 # 1. Build and start containers
+```
 docker-compose up --build
-
+```
 # 2. ETL script will run automatically
+```
 # You’ll see: "✅ Data successfully loaded into the 'sales' table."
-
+```
 # 3. Connect via pgAdmin or any client
 
-🧠 Next Steps
+
+## 📜 License  
+This project is distributed under the **MIT License**. Feel free to use the code! 🚀  
+
+---
+
+## 📢 Stay Connected!  
+💻 **GitHub Repository:** [Evgenii Matveev](https://github.com/evgeniimatveev)  
+🌐 **Portfolio:** [Data Science Portfolio](https://www.datascienceportfol.io/evgeniimatveevusa)  
+📌 **LinkedIn:** [Evgenii Matveev](https://www.linkedin.com/in/evgenii-matveev-510926276/)  
 
 
+---
 
-🔗 Author
-
-Your Name  – Data & MLOps Enthusiast🔗 GitHub | LinkedIn
-
-Feel free to fork ⭐ the repo and try the pipeline locally!
+🔥 **If you like this project, don't forget to star ⭐ the repository!** 🔥
 
