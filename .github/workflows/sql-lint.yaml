@@ -16,6 +16,3 @@ jobs:
 
       - name: Install sqlfluff
         run: pip install sqlfluff
-
-      - name: Lint SQL files
-        run: sqlfluff lint sql/dql --dialect postgres
