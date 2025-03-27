@@ -5,4 +5,3 @@ SELECT
 FROM sales
 GROUP BY date
 ORDER BY date;
- 
