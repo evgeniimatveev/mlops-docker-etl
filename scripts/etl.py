@@ -25,6 +25,6 @@ df = pd.read_csv("data/raw/sales.csv")
 # 2. Transform
 df["total"] = df["price"] * df["quantity"] * (1 - df["discount"])
 
-# ✅ 3. Load — вставь ЭТО если вдруг вырезал:
+
 df.to_sql("sales", engine, if_exists="replace", index=False)
 print("✅ Data successfully loaded into the 'sales' table.")
