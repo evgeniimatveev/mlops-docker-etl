@@ -75,7 +75,7 @@ mlops_docker_project/
 ✔️GitHub Actions automatically runs sqlfluff on every push and pull request:
 
 ```
-run: sqlfluff lint sql/dql --dialect postgres
+sqlfluff lint sql/dql --dialect postgres
 ```
 Ensures your SQL queries are always clean and consistent. ✨
 
