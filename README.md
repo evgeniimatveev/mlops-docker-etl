@@ -1,7 +1,5 @@
 # 🧪 MLOps Docker ETL Project – PostgreSQL + Python + SQL CI/CD
 
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue) ![Python](https://img.shields.io/badge/Python-3.10-yellow) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-blue?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
