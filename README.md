@@ -6,8 +6,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-blue?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-AutoTest-green?logo=github)
-
-
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
